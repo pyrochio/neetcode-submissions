@@ -44,11 +44,11 @@ Python For Beginners/python-hello-world/submission-0.py
 
 | Language | Extension |
 |---|---|
-| Python | `.py` |
+| <mark>Python<mark> | `.py` |
 | JavaScript | `.js` |
 | TypeScript | `.ts` |
-| Java | `.java` |
-| <mark>C++<mark> | `.cpp` |
+| <mark>Java<mark> | `.java` |
+| **<mark>C++<mark>** | `.cpp` |
 | C# | `.cs` |
 | Go | `.go` |
 | Rust | `.rs` |
