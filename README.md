@@ -48,7 +48,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | JavaScript | `.js` |
 | TypeScript | `.ts` |
 | Java | `.java` |
-| C++ | `.cpp` |
+| <mark>C++<mark> | `.cpp` |
 | C# | `.cs` |
 | Go | `.go` |
 | Rust | `.rs` |
