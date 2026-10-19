@@ -1,4 +1,4 @@
-# NeetCode Solutions — @0pyrolytic
+# NeetCode Solutions — @pyrochio
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
